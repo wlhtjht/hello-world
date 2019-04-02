@@ -1,0 +1,5 @@
+ operating system
+ kernel
+ process
+ thread
+ 1
